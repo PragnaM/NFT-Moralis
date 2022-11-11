@@ -1,4 +1,8 @@
 # NFT using Moralis
+
+Name: Pragna Mallikarjuna Swamy
+Link to repo: https://github.com/PragnaM/NFT-Moralis
+
 Instructions are present in NFT-Moralis.docx present in the repo.
 
 Setup Instructions:
